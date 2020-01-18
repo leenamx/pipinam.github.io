@@ -7,7 +7,7 @@ description: "工学者，巧心，劳力，造器物。"
 keyword: "机器学习推导, 皮皮南"
 url: "https://pipinam.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-# github_repo: "https://github.com/PiPiNam/pipinam.github.io.git" # you code repository
+github_repo: "https://github.com/PiPiNam/pipinam.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
