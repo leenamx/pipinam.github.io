@@ -6,6 +6,7 @@ date:       2020-02-04              # 时间
 author:     Nam                     # 作者
 header-img: img/post-bg-2015.jpg    # 这篇文章标题背景图片
 catalog: true                       # 是否归档
+mathjax: true                       # 使用mathjax
 tags:                               # 标签
     - 彻底理解机器学习
 ---
