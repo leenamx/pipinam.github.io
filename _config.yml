@@ -14,7 +14,8 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "尽人事，听天命。"
 sidebar-avatar: /img/About-profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+# 正常显示公式
+markdown: kramdown
 
 # SNS settings
 RSS: false
