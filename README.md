@@ -5,7 +5,7 @@
 
 ## 致谢
 
-1.感谢汪亦柳同学对本博客的建成所提供的指导！
+1. 感谢汪亦柳同学对本博客的搭建所提供的耐心指导！
 2. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
 3. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
