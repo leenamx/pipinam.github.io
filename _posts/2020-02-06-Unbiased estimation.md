@@ -91,12 +91,12 @@ $$
 $$
 \begin{aligned}
 E[(\bar x-\mu)^2] 
-& = \frac{1}{n^2} E[(\sum_{i=1}^{n}x_i-n\mu)^2] \\ \tag{6}
+& = \frac{1}{n^2} E[(\sum_{i=1}^{n}x_i-n\mu)^2] \\
 & = \frac{1}{n^2} E[[(x_1-\mu)+(x_2-\mu)+...+(x_n-\mu)]^2] \\
 & = \frac{1}{n^2} E[(x_1-\mu)^2+(x_2-\mu)^2+...+(x_n-\mu)^2+\sum_{i\ne j}(x_i-\mu)(x_j-\mu)]\\
 & = \frac{1}{n^2} \cdot n \sigma ^2 \\
 & = \frac{1}{n} \sigma ^2
-\end{aligned}
+\end{aligned} \tag{6}
 $$
 
 在这之中，我们发现 $\sum_{i\ne j}(x_i-\mu)(x_j-\mu)$ 表示是 $x_i与x_j$两者的协方差，即：$Cov[x_i,x_j]$ 因为在这里两个样本之间是相互独立的，不具有相关性。
