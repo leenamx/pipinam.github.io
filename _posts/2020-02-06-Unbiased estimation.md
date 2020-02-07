@@ -90,7 +90,7 @@ $$
 
 $$
 \begin{aligned}
-E[(\bar x-\mu)^2] \tag{6}
+E[(\bar x-\mu)^2] 
 & = \frac{1}{n^2} E[(\sum_{i=1}^{n}x_i-n\mu)^2] \\
 & = \frac{1}{n^2} E[[(x_1-\mu)+(x_2-\mu)+...+(x_n-\mu)]^2] \\
 & = \frac{1}{n^2} E[(x_1-\mu)^2+(x_2-\mu)^2+...+(x_n-\mu)^2+\sum_{i\ne j}(x_i-\mu)(x_j-\mu)]\\
