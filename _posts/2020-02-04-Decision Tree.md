@@ -4,7 +4,7 @@ title:      阿南带你理解决策树        # 标题
 subtitle:   阿南的决策树             # 副标题
 date:       2020-02-04              # 时间
 author:     Nam                     # 作者
-header-img: img/post-bg-2015.jpg    # 这篇文章标题背景图片
+header-img: img/post-bg-decision_tree-highway.jpg    # 这篇文章标题背景图片
 mathjax: true                       # 使用mathjax
 catalog: true                       # 是否归档
 tags:                               # 标签
