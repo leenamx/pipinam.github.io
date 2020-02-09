@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      阿南带你理解无偏估计      # 标题 
+title:      阿南带你理解感知机      # 标题 
 subtitle:   走进科学                 # 副标题
 date:       2020-02-09              # 时间
 author:     Nam                     # 作者
