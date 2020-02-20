@@ -65,9 +65,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d077ee3faea3eb26ccc6                            #生成的clientID
   clientSecret: b4942868f90127b9bd5fe762b050ba526c10cba6    #生成的clientSecret
-  repo: pipinamx.github.io    #仓库名称
-  owner: pipinam    #github用户名
-  admin: pipinam
+  repo: pipinam.github.io    #仓库名称
+  owner: PiPiNam    #github用户名
+  admin: PiPiNam
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
