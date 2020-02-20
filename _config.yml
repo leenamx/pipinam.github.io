@@ -66,8 +66,8 @@ gitalk:
   clientID: d077ee3faea3eb26ccc6                            #生成的clientID
   clientSecret: b4942868f90127b9bd5fe762b050ba526c10cba6    #生成的clientSecret
   repo: pipinamx.github.io    #仓库名称
-  owner: 'pipinam'    #github用户名
-  admin: 'pipinam'
+  owner: pipinam    #github用户名
+  admin: pipinam
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
