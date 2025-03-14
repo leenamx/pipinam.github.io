@@ -7,7 +7,7 @@ description: "尽人事，听天命。"
 keyword: "机器学习推导, 皮皮南"
 url: "https://pipinam.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/PiPiNam/pipinam.github.io.git" # you code repository
+github_repo: "https://github.com/leenamx/pipinam.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -21,7 +21,7 @@ markdown: kramdown
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-github_username:    pipinam
+github_username:    leenamx
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -66,8 +66,8 @@ gitalk:
   clientID: d077ee3faea3eb26ccc6                            #生成的clientID
   clientSecret: b4942868f90127b9bd5fe762b050ba526c10cba6    #生成的clientSecret
   repo: pipinam.github.io    #仓库名称
-  owner: PiPiNam    #github用户名
-  admin: PiPiNam
+  owner: leenamx    #github用户名
+  admin: leenamx
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
