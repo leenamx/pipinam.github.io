@@ -7,7 +7,7 @@ description: "尽人事，听天命。"
 keyword: "机器学习推导, 皮皮南"
 url: "https://leenamx.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/leenamx/leenamx.github.io.git" # you code repository
+github_repo: "https://github.com/leenamx/pipinam.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
